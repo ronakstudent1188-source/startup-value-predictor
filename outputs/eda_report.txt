@@ -1,0 +1,20 @@
+Rows: 500
+
+Columns and non-null counts:
+None
+
+Summary statistics:
+                       count unique          top freq  ...             25%             50%              75%              max
+startup_name             500    500  Startup_499    1  ...             NaN             NaN              NaN              NaN
+founded_year           500.0    NaN          NaN  NaN  ...          2013.0          2016.0           2020.0           2023.0
+team_size              500.0    NaN          NaN  NaN  ...            4.75            11.0             21.0            123.0
+funding_rounds         500.0    NaN          NaN  NaN  ...             1.0             3.0             5.25              7.0
+total_funding_usd      500.0    NaN          NaN  NaN  ...   557109.657809  1461271.148374   2878861.617624  14883445.819409
+industry                 500      7   Healthcare   81  ...             NaN             NaN              NaN              NaN
+country                  500      6       Canada   96  ...             NaN             NaN              NaN              NaN
+has_vc_backing         500.0    NaN          NaN  NaN  ...             0.0             1.0              1.0              1.0
+months_since_founding  500.0    NaN          NaN  NaN  ...            48.0            84.0            132.0            168.0
+valuation_usd          500.0    NaN          NaN  NaN  ...  6010957.048803   9087999.86508  14450307.433858   55020086.25754
+is_successful          500.0    NaN          NaN  NaN  ...             0.0             0.0              1.0              1.0
+
+[11 rows x 11 columns]
